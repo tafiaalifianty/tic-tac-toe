@@ -124,23 +124,3 @@ cells in a diagonal.
     Sample Output:
     Invalid game board
     ```
-
-## Notes
-
-What we are looking for: 
-
-  Should work correctly. Should pass for all the given sample of Input. 
-
-  Good to have:
-
-  - Good naming variable, Clean Code
-
-  - Object oriented design(OOP)
-
-  - Unit tests
-
-  It is not expected you to know above mentioned practices or unit testing. But we would like to see 
-
-  what would your best code look like. 
-
-  Note: That you are not required to develop a UI for this.
